@@ -32,6 +32,8 @@ IAB22 	 shopping
 IAB23 	 religion-spirituality
 ```
 
+You can download the full training dataset [here](https://drive.google.com/file/d/1rWhxuishQMXkP0atnt8uA3GJeC9t1pT1/view?usp=sharing) (2.2GB). 
+
 If you make use of this dataset for your research, please cite the following paper:
 
 ```
